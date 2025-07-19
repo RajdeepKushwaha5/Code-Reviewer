@@ -64,7 +64,7 @@ This project is designed for simplicity and can be run by serving the files dire
     ```
     The application will be available at the URL provided by the server (e.g., `http://localhost:3000`).
 
-## usage How to Use
+## How to Use
 
 1.  **Paste Your Code**: Write or paste code into the editor on the left.
 2.  **Select Language**: Choose the correct programming language from the dropdown menu.
