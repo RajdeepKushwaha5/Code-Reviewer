@@ -28,7 +28,7 @@ An intelligent, AI-powered tool that leverages the Google Gemini API to perform 
 
 ### Prerequisites
 
-You need a Google Gemini API key to use this application.
+You need a Google Gemini API key to use this application.(I'm broke so i use gemini free keys)
 
 1.  Go to [Google AI Studio](https://aistudio.google.com/app/keys).
 2.  Click **"Create API key"** and copy your new key.
@@ -39,7 +39,7 @@ This project is designed for simplicity and can be run by serving the files dire
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/code-reviewer.git
+    git clone https://github.com/RajdeepKushwaha5/code-reviewer.git
     cd code-reviewer
     ```
 2.  **Set up your API Key:**
