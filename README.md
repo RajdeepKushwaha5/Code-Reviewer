@@ -3,7 +3,7 @@
 
 An intelligent, AI-powered tool that leverages the Google Gemini API to perform automated code reviews. It provides insightful feedback, identifies potential issues, and offers suggestions to improve code quality, performance, and security.
 
-![Code Reviewer Screenshot](https://storage.googleapis.com/genai-assets/codereviewer.png)
+![Code Reviewer Screenshot](code_reviewer_dashboard_iamage.png)
 
 ## ✨ Features
 
